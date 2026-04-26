@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7932602.svg)](https://doi.org/10.5281/zenodo.7932602)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7932602.svg)
 
 # Crop Pollination Database
 
@@ -7,7 +7,7 @@
 The database is stored as three `.csv` files you can find in `Final_Data` folder. Here you will find the latest version (See `News.md`). Stable releases can be found in Zenodo: DOI: [10.5281/zenodo.4311291](https://zenodo.org/badge/latestdoi/240485535)
 
 - `CropPol_field_level_data.csv` contains one row per field and study system with summary values per field incuding field coordinates, pollintor richness, yield, etc...
-- `CropPol_sampling_data.csv` contains pollinator sampling data on which pollinators where collected per field. 
+- `CropPol_sampling_data.csv` contains pollinator sampling data on which pollinators were collected per field. 
 - `CropPol_data_ownership.csv` contains information on data authors, affiliations and funding.
 
 Please, check Metadata [here](http://htmlpreview.github.io/?https://github.com/ibartomeus/OBservData/blob/master/Metadata/docs/index_Rev.html) and understand the data limitations [here](https://github.com/ibartomeus/OBservData/blob/master/Manuscript/OBSerData_Final.pdf)
